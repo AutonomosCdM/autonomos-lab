@@ -66,3 +66,6 @@ agents/gcp_integration/credentials.json
 agents/gcp_integration/src/gcp_integration/token.pickle
 # Memory bank folder
 memory-bank/
+.env
+agents/gcp_integration/src/gcp_integration/credentials.json
+agents/gcp_integration/src/gcp_integration/temp_token.json
